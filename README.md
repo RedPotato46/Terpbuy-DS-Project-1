@@ -1,4 +1,4 @@
-#   Course Project - Terpbuy
+#  Terpbuy - Sales and Orders Analysis
 Have applied SQL & Python skills to help Terpbuy a global B2B & B2C business, to derive valuable and actionable business insights.
 
 ## Scenario
